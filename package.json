@@ -1,6 +1,6 @@
 {
   "name": "blear.node.mime",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Node mime(Multipurpose Internet Mail Extensions)",
   "scripts": {
     "live": "browser-sync start --config bs-config.js",
@@ -18,8 +18,7 @@
   "keywords": [
     "blear",
     "node",
-    "template",
-    "express",
+    "mime",
     "cloudcome",
     "ydr.me"
   ],
